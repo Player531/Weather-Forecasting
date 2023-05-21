@@ -10,7 +10,8 @@ https://github.com/Player531/Weather-Forecasting/assets/96776640/de557bab-f56e-4
 * Get the API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
 * Get the API key from [IPBase](https://app.ipbase.com/register).
 
-I have used tkinter to build a simplified GUI, you can use anything you like.
+### I used tkinter to build a simplified GUI.
+Check the *WeatherForecasting.py* file.
 
 
 
